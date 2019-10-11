@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {},
+  "devDependencies": {},
   "keywords": [
     "gitbook",
     "plugin",
@@ -16,5 +17,10 @@
   "license": "MIT",
   "engines": {
     "gitbook": ">=2.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoranfu/gitbook-plugin-medium-zoom.git"
+  },
+  "homepage": "https://github.com/yoranfu/gitbook-plugin-medium-zoom"
 }
